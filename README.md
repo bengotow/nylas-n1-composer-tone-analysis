@@ -4,6 +4,8 @@
 A plugin for N1 that allows you to check the tone of your emails before
 you send them.
 
+![N1 Screenshot](https://github.com/bengotow/nylas-n1-composer-tone-analysis/raw/master/screenshot.png)
+
 See a video of it in action here: [https://www.youtube.com/watch?v=z7ikoKgClDU&feature=youtu.be](https://www.youtube.com/watch?v=z7ikoKgClDU&feature=youtu.be).
 
 Built on the Watson APIs
