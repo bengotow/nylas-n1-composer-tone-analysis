@@ -1,10 +1,13 @@
 
-# N1 Markdown Composer
+# N1 Composer - Email Tone Analysis
 
-A plugin for N1 that allows you to compose emails using markdown.
+A plugin for N1 that allows you to check the tone of your emails before
+you send them.
 
-![Markdown Screenshot Editor](/assets/markdown_screenshot_edit.png?raw=true "Markdown Composer Editor")
-![Markdown Screenshot Preview](/assets/markdown_screenshot_preview.png?raw=true "Markdown Composer Preview")
+See a video of it in action here: [https://www.youtube.com/watch?v=z7ikoKgClDU&feature=youtu.be](https://www.youtube.com/watch?v=z7ikoKgClDU&feature=youtu.be).
+
+Built on the Watson APIs
+and this [tone analyzer demo](https://github.com/watson-developer-cloud/tone-analyzer-nodejs).
 
 ## Install this plugin:
 
@@ -13,7 +16,7 @@ A plugin for N1 that allows you to compose emails using markdown.
 2. Clone this repository (Make sure you have `git` installed and available in
    your system path)
 
-3. From the menu, select `Developer > Install a Package Manually...`
+3. From N1's menu, select `Developer > Install a Package Manually...`
    From the dialog, choose the directory of this plugin to install it!
 
    > When you install packages, they're moved to `~/.nylas/packages`,
@@ -23,4 +26,4 @@ A plugin for N1 that allows you to compose emails using markdown.
 
 ## Usage
 
-Just write emails using markdown.
+Just write emails, and then click the peppers in the footer. Boom!
