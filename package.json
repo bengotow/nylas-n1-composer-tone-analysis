@@ -2,8 +2,8 @@
   "name": "composer-tone-analysis",
   "version": "0.1.0",
   "main": "./lib/main",
-  "title": "Markdown (Experimental)",
-  "description": "Write emails using Markdown!",
+  "title": "Tone Analysis",
+  "description": "IBM Watson reviews the tone of your emails before you send.",
   "license": "GPL-3.0",
   "icon": "./icon.png",
   "engines": {
@@ -12,7 +12,7 @@
   "isOptional": true,
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/bengotow/nylas-n1-composer-tone-analysis"
   },
   "windowTypes": {
     "default": true,
